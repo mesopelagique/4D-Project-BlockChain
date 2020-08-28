@@ -9,10 +9,13 @@ I tried to demonstrate some design principles such as class design and reuse, co
 ## Links
 
 Check out my BlockChain Video tutorial on youtube
+
 [![](https://img.youtube.com/vi/PudDtdIYRio/0.jpg)](http://www.youtube.com/watch?v=PudDtdIYRio "Click to play on Youtube.com")
 
 Creating a BlockChain in JavaScript 
+
 [![](https://img.youtube.com/vi/zVqczFZr124/0.jpg)](http://www.youtube.com/watch?v=zVqczFZr124 "Click to play on Youtube.com")
 
-A short intro to BlockChain (highly recommended): 
+A short intro to BlockChain (highly recommended)
+
 [![](https://img.youtube.com/vi/aQWflNQuP_o/0.jpg)](http://www.youtube.com/watch?v=aQWflNQuP_o "Click to play on Youtube.com")
